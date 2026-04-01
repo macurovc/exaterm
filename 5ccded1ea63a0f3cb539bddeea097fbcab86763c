@@ -1,0 +1,27 @@
+crates/exaterm-web/frontend/src/ui.ts
+  d045514ab918024e 141,293-299
+crates/exaterm-web/frontend/static/app.css
+  d045514ab918024e 83,162-183
+crates/exaterm-web/e2e/features.spec.ts
+  d045514ab918024e 295-332
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "5ccded1ea63a0f3cb539bddeea097fbcab86763c",
+  "prompts": {
+    "d045514ab918024e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b362aebf-7d70-4c14-bd4c-0559202e6d2b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Marco Vocialta <mvocialta@nvidia.com>",
+      "messages": [],
+      "total_additions": 73,
+      "total_deletions": 4,
+      "accepted_lines": 69,
+      "overriden_lines": 0
+    }
+  }
+}
