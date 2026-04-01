@@ -1,0 +1,65 @@
+crates/exaterm-web/Cargo.toml
+  d045514ab918024e 1-13
+crates/exaterm-web/build.rs
+  d045514ab918024e 1-52
+Cargo.toml
+  d045514ab918024e 7
+crates/exaterm-web/src/main.rs
+  d045514ab918024e 1-70
+crates/exaterm-web/frontend/static/index.html
+  d045514ab918024e 1-39
+crates/exaterm-web/e2e/basic.spec.ts
+  d045514ab918024e 1-544
+crates/exaterm-web/e2e/terminal-reattach.spec.ts
+  d045514ab918024e 1-95
+crates/exaterm-web/frontend/src/ui.ts
+  d045514ab918024e 1-679
+crates/exaterm-web/frontend/tsconfig.json
+  d045514ab918024e 1-10
+crates/exaterm-web/frontend/static/app.css
+  d045514ab918024e 1-547
+crates/exaterm-web/playwright.config.ts
+  d045514ab918024e 1-22
+crates/exaterm-web/frontend/src/main.ts
+  d045514ab918024e 1-73
+crates/exaterm-web/src/relay.rs
+  d045514ab918024e 1-86
+crates/exaterm-web/e2e/terminal-clipping.spec.ts
+  d045514ab918024e 1-100
+crates/exaterm-web/frontend/package.json
+  d045514ab918024e 1-15
+.gitignore
+  d045514ab918024e 5-8
+crates/exaterm-web/src/routes.rs
+  d045514ab918024e 1-150
+crates/exaterm-web/src/websocket.rs
+  d045514ab918024e 1-145
+Makefile
+  d045514ab918024e 1,32-40,54-56
+crates/exaterm-web/frontend/src/protocol.ts
+  d045514ab918024e 1-110
+crates/exaterm-web/frontend/src/terminal.ts
+  d045514ab918024e 1-162
+crates/exaterm-web/e2e/features.spec.ts
+  d045514ab918024e 1-320
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "6f284184b3dadde61f134643d072126cbbf1fdfc",
+  "prompts": {
+    "d045514ab918024e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b362aebf-7d70-4c14-bd4c-0559202e6d2b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Marco Vocialta <mvocialta@nvidia.com>",
+      "messages": [],
+      "total_additions": 4460,
+      "total_deletions": 1211,
+      "accepted_lines": 3250,
+      "overriden_lines": 0
+    }
+  }
+}
