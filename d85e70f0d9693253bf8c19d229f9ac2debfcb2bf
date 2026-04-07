@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "d85e70f0d9693253bf8c19d229f9ac2debfcb2bf",
+  "prompts": {
+    "6d8c9774d3e055a8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c1d3fdee-8367-4988-b061-f225278e008d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 15,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
