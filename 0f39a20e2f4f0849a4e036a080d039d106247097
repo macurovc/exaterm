@@ -1,0 +1,29 @@
+crates/exaterm-web/frontend/src/main.ts
+  8ea18a449e8a4b68 24-30
+crates/exaterm-web/src/routes.rs
+  8ea18a449e8a4b68 39-40,43,98
+crates/exaterm-web/src/websocket.rs
+  8ea18a449e8a4b68 15-19,77-79
+crates/exaterm-web/src/main.rs
+  8ea18a449e8a4b68 23-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "0f39a20e2f4f0849a4e036a080d039d106247097",
+  "prompts": {
+    "8ea18a449e8a4b68": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a428f9ca-4810-4fdd-9ed5-e038974200ee",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 24,
+      "total_deletions": 10,
+      "accepted_lines": 23,
+      "overriden_lines": 0
+    }
+  }
+}
