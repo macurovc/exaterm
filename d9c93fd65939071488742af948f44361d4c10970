@@ -1,0 +1,25 @@
+crates/exaterm-web/src/websocket.rs
+  97467a9b995939a4 278-326
+crates/exaterm-web/frontend/src/ui.ts
+  97467a9b995939a4 78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "d9c93fd65939071488742af948f44361d4c10970",
+  "prompts": {
+    "97467a9b995939a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "978a9bdc-8011-4214-982e-d6625713d366",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 50,
+      "total_deletions": 1,
+      "accepted_lines": 50,
+      "overriden_lines": 0
+    }
+  }
+}
