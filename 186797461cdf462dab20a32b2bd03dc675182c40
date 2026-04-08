@@ -1,0 +1,23 @@
+crates/exaterm-web/frontend/src/ui.ts
+  97467a9b995939a4 723-725
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "186797461cdf462dab20a32b2bd03dc675182c40",
+  "prompts": {
+    "97467a9b995939a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "978a9bdc-8011-4214-982e-d6625713d366",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
