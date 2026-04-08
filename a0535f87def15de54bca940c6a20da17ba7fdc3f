@@ -1,0 +1,25 @@
+crates/exaterm-ui/src/supervision.rs
+  97467a9b995939a4 184-194
+crates/exaterm-web/frontend/src/ui.ts
+  97467a9b995939a4 711,721-722,742-744
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "a0535f87def15de54bca940c6a20da17ba7fdc3f",
+  "prompts": {
+    "97467a9b995939a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "978a9bdc-8011-4214-982e-d6625713d366",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 18,
+      "total_deletions": 2,
+      "accepted_lines": 18,
+      "overriden_lines": 0
+    }
+  }
+}
