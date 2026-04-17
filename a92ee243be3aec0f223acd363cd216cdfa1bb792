@@ -1,0 +1,38 @@
+crates/exaterm-web/frontend/src/terminal.ts
+  f7dfd2589eac717f 13-18,26-60,132-136,141-142,150-205,219-220,223-226,307
+crates/exaterm-web/frontend/src/ui.ts
+  f7dfd2589eac717f 12,449-451,454-456,458-465,489-494,497,633-653
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "a92ee243be3aec0f223acd363cd216cdfa1bb792",
+  "prompts": {
+    "ad3d609b30bd8ff4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed3b4b7f-ba45-48a6-b7f3-8b38e13373ed",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 5251,
+      "total_deletions": 5193,
+      "accepted_lines": 231,
+      "overriden_lines": 48
+    },
+    "f7dfd2589eac717f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "010cb45e-e3fd-4ea6-8477-23f52b733fde",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 1494,
+      "total_deletions": 260,
+      "accepted_lines": 1336,
+      "overriden_lines": 0
+    }
+  }
+}
