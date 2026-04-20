@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "2c2f714b0f940414ff03a2a6172b156c5cdd6176",
+  "prompts": {
+    "9bb843402a0b44de": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d9c05-90b9-70c1-b9b4-f61f0313e782",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 510,
+      "overriden_lines": 0
+    }
+  }
+}
