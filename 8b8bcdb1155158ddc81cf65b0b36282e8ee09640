@@ -1,0 +1,27 @@
+crates/exaterm-core/src/daemon.rs
+  9bb843402a0b44de 1-2,4-5,7,12,15-17,301-303,822-827,844,1917-1941,1990,2011-2012,2045,2055-2056,2200-2217
+crates/exaterm-core/src/synthesis.rs
+  9bb843402a0b44de 5,1279-1282,1285-1286,1326,1333,1905-1907,2476-2477,2480-2481
+crates/exaterm-core/src/file_watch.rs
+  9bb843402a0b44de 5-9,13,18-26,36,52-53,55-61,72-75,112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "8b8bcdb1155158ddc81cf65b0b36282e8ee09640",
+  "prompts": {
+    "9bb843402a0b44de": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d9c05-90b9-70c1-b9b4-f61f0313e782",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Marco Vocialta",
+      "messages": [],
+      "total_additions": 228,
+      "total_deletions": 196,
+      "accepted_lines": 606,
+      "overriden_lines": 0
+    }
+  }
+}
